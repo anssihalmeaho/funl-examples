@@ -4,7 +4,7 @@ Demonstrates forming permuations for list of items.
 
 ## Running main function
 Main function takes one argument (N) that is used as upper limit for list of numbers (list of integeres from 1 to N).
-Output is list containing list of all permutations and number permutations.
+Output is list containing list of all permutations and number of permutations.
 
 Example:
 
