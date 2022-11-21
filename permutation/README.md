@@ -9,7 +9,7 @@ Output is list containing list of all permutations and number permutations.
 Example:
 
 ```
-funla -args="2" permutate.fnl
+funla -args=2 permutate.fnl
 ```
 
 Output:
