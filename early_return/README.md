@@ -24,7 +24,7 @@ Typically default branch would be call to anonymous function/procedure value.
 ## Running an example
 Example (**early_return/early_ret.fnl**) demonstrates function which calculates sum of two arguments.
 First there are validations which check that arguments are of int -type and
-if not then early return is made with error list (_list(false 'error text' '')_).
+if not then early return is made with error list (_list(false 'error text' 'no value')_).
 If validations were ok then result is list of _list(true '' sum-value:int)_
 
 Run example:
