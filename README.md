@@ -4,3 +4,6 @@ This repository contains example codes for [FunL programming language](https://g
 ## permutation
 Demonstrates forming permutations for list of items.
 
+## early_return
+Demonstrates "early return" -pattern in FunL by using **cond** operator.
+
