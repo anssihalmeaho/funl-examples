@@ -10,3 +10,7 @@ Demonstrates "early return" -pattern in FunL by using **cond** operator.
 ## bytearray_conversions
 Demonstrates how to handle bytearrays as list of hexadecimal values.
 
+## composing_with_error_handling
+Demonstrates how error handling can be separated to its own wrapper
+when using chain of functions type of composition.
+
