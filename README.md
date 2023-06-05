@@ -14,3 +14,6 @@ Demonstrates how to handle bytearrays as list of hexadecimal values.
 Demonstrates how error handling can be separated to its own wrapper
 when using chain of functions type of composition.
 
+## flatten
+Shows how flatten nested lists into one flat list.
+
