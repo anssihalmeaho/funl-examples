@@ -20,3 +20,6 @@ Shows how flatten nested lists into one flat list.
 ## generator
 This example demonstrates concept of **generator**.
 
+## streams
+This example demonstrates lazy evaluation and concept of **streams**.
+
