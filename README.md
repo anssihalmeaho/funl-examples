@@ -23,3 +23,7 @@ This example demonstrates concept of **generator**.
 ## streams
 This example demonstrates lazy evaluation and concept of **streams**.
 
+## streams2
+This example is continuation for **streams**, it further demonstrates
+how to achieve lazy evaluation by using thunks (and defer/force operators).
+
