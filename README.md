@@ -27,3 +27,7 @@ This example demonstrates lazy evaluation and concept of **streams**.
 This example is continuation for **streams**, it further demonstrates
 how to achieve lazy evaluation by using thunks (and defer/force operators).
 
+## callcount
+This example shows how to wrap function (or procedure) with another procedure.
+In this case procedure counts amount of calls made in addition to calling wrapped function.
+
