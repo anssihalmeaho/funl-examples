@@ -31,6 +31,6 @@ how to achieve lazy evaluation by using thunks (and defer/force operators).
 This example shows how to wrap function (or procedure) with another procedure.
 In this case procedure counts amount of calls made in addition to calling wrapped function.
 
-# public_private
+## public_private
 This example demonstrates how to implement public and private parts for module.
 
