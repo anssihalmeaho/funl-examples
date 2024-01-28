@@ -34,3 +34,6 @@ In this case procedure counts amount of calls made in addition to calling wrappe
 ## public_private
 This example demonstrates how to implement public and private parts for module.
 
+## partial_app
+This example demonstrates **partial function application**.
+
