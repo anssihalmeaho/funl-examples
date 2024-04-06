@@ -7,6 +7,10 @@ Demonstrates forming permutations for list of items.
 ## early_return
 Demonstrates "early return" -pattern in FunL by using **cond** operator.
 
+## early_return_2
+Extends "early return" -pattern by showing how to define shared let -definitions
+(symbols) inside **cond** operator call.
+
 ## bytearray_conversions
 Demonstrates how to handle bytearrays as list of hexadecimal values.
 
