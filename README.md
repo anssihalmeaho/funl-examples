@@ -41,3 +41,5 @@ This example demonstrates how to implement public and private parts for module.
 ## partial_app
 This example demonstrates **partial function application**.
 
+## design_by_contract
+This example shows how to use **Design By Contract** approach.
