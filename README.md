@@ -43,3 +43,7 @@ This example demonstrates **partial function application**.
 
 ## design_by_contract
 This example shows how to use **Design By Contract** approach.
+
+## composed_pipe
+This example shows how to create composed function (from list of function)
+recursively so that there's nested call chain.
